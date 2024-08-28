@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Project\\Task\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|d:\\web project\\task\\studentmanagement\\studentmanagement\\src\\app\\student-list-page\\student-list-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\student-list-page\\student-list-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\student-list-page\\student-list-page.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\student-list-page\\student-list-page.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\login-page\\login-page.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\login-page\\login-page.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\create-page\\create-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\create-page\\create-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\account-management-page\\account-management-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\account-management-page\\account-management-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\welcome-page\\welcome-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\welcome-page\\welcome-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|D:\\Web Project\\Task\\StudentManagement\\studentmanagement\\src\\app\\student-list-page\\student-list-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{69743DB5-55B3-4F25-A495-2B92C8F757E6}|StudentManagement\\StudentManagement.esproj|solutionrelative:studentmanagement\\src\\app\\student-list-page\\student-list-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nav-bar.component.css",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\nav-bar\\nav-bar.component.css",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\nav-bar\\nav-bar.component.css",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\nav-bar\\nav-bar.component.css",
+              "RelativeToolTip": "StudentManagement\\src\\app\\nav-bar\\nav-bar.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T14:55:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student-list-page.component.html",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\student-list-page\\student-list-page.component.html",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\student-list-page\\student-list-page.component.html",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\student-list-page\\student-list-page.component.html",
+              "RelativeToolTip": "StudentManagement\\src\\app\\student-list-page\\student-list-page.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T15:10:19.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student-list-page.component.css",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\student-list-page\\student-list-page.component.css",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\student-list-page\\student-list-page.component.css",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\student-list-page\\student-list-page.component.css",
+              "RelativeToolTip": "StudentManagement\\src\\app\\student-list-page\\student-list-page.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T15:23:37.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "StudentManagement\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T14:44:42.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login-page.component.css",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\login-page\\login-page.component.css",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\login-page\\login-page.component.css",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\login-page\\login-page.component.css",
+              "RelativeToolTip": "StudentManagement\\src\\app\\login-page\\login-page.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T15:03:48.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create-page.component.html",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\create-page\\create-page.component.html",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\create-page\\create-page.component.html",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\create-page\\create-page.component.html",
+              "RelativeToolTip": "StudentManagement\\src\\app\\create-page\\create-page.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T15:10:36.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "account-management-page.component.html",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\account-management-page\\account-management-page.component.html",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\account-management-page\\account-management-page.component.html",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\account-management-page\\account-management-page.component.html",
+              "RelativeToolTip": "StudentManagement\\src\\app\\account-management-page\\account-management-page.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T15:10:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nav-bar.component.ts",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\nav-bar\\nav-bar.component.ts",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\nav-bar\\nav-bar.component.ts",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\nav-bar\\nav-bar.component.ts",
+              "RelativeToolTip": "StudentManagement\\src\\app\\nav-bar\\nav-bar.component.ts",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-28T15:12:01.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "StudentManagement\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-28T13:40:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "welcome-page.component.html",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\welcome-page\\welcome-page.component.html",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\welcome-page\\welcome-page.component.html",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\welcome-page\\welcome-page.component.html",
+              "RelativeToolTip": "StudentManagement\\src\\app\\welcome-page\\welcome-page.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-28T15:10:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "student-list-page.component.ts",
+              "DocumentMoniker": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\student-list-page\\student-list-page.component.ts",
+              "RelativeDocumentMoniker": "StudentManagement\\src\\app\\student-list-page\\student-list-page.component.ts",
+              "ToolTip": "D:\\Web Project\\Task\\StudentManagement\\StudentManagement\\src\\app\\student-list-page\\student-list-page.component.ts",
+              "RelativeToolTip": "StudentManagement\\src\\app\\student-list-page\\student-list-page.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-28T14:58:45.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+D:\Web Project\Assignment\Problem 1\StudentManagement\StudentManagement\obj\Debug\StudentManagement.esproj.CoreCompileInputs.cache
+D:\Web Project\Task\StudentManagement\StudentManagement\obj\Debug\StudentManagement.esproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+.student-list-container {
+  display: flex;
+  justify-content: center;
+  border: solid 1px black;
+}
+
+.inner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  border: solid 1px black;
+  width: 70%;
+}
