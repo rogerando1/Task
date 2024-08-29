@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GPE\\Tasks\\newjoiners\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1E3E6D-D74D-48A5-A871-AA9152DA1065}|StudentManagementSystem\\StudentManagementSystem.esproj|c:\\users\\gpe\\tasks\\newjoiners\\studentmanagementsystem\\studentmanagementsystem\\src\\app\\create-page\\create-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD1E3E6D-D74D-48A5-A871-AA9152DA1065}|StudentManagementSystem\\StudentManagementSystem.esproj|solutionrelative:studentmanagementsystem\\src\\app\\create-page\\create-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "create-page.component.html",
+              "DocumentMoniker": "C:\\Users\\GPE\\Tasks\\newjoiners\\StudentManagementSystem\\StudentManagementSystem\\src\\app\\create-page\\create-page.component.html",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\src\\app\\create-page\\create-page.component.html",
+              "ToolTip": "C:\\Users\\GPE\\Tasks\\newjoiners\\StudentManagementSystem\\StudentManagementSystem\\src\\app\\create-page\\create-page.component.html",
+              "RelativeToolTip": "StudentManagementSystem\\src\\app\\create-page\\create-page.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T01:42:54.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
